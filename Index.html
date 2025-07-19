@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineHub - Stream & Download Movies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="https://via.placeholder.com/150x50?text=CineHub" alt="CineHub" class="logo">
+        <div class="search-container">
+            <input type="text" class="search-bar" placeholder="Search movies...">
+        </div>
+    </header>
+    
+    <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="bollywood">Bollywood</button>
+        <button class="filter-btn" data-filter="south">South</button>
+        <button class="filter-btn" data-filter="hollywood">Hollywood</button>
+    </div>
+    
+    <div class="container">
+        <h2 class="section-title">Latest Uploads</h2>
+        <div class="movies-grid" id="movies-container">
+            <!-- Movies will be loaded here from JSON -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

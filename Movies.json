@@ -1,0 +1,82 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Pathaan",
+            "year": 2023,
+            "category": "bollywood",
+            "size": "1.8 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+            "description": "An Indian spy battles against the leader of a gang of mercenaries who have a heinous plot for his homeland.",
+            "downloadUrl": "https://wwwbridera.wordpress.com/wp-content/uploads/2025/04/wp-1744294789071.mp4",
+            "quality": "1080p",
+            "duration": "2h 26m",
+            "rating": "7.0/10"
+        },
+        {
+            "id": 2,
+            "title": "KGF Chapter 2",
+            "year": 2022,
+            "category": "south",
+            "size": "2.4 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_FMjpg_UX1000_.jpg",
+            "description": "Rocky seeks revenge against Adheera and faces the might of Garuda while the government tries to stop his reign.",
+            "downloadUrl": "https://example.com/downloads/kgf2.mp4",
+            "quality": "4K",
+            "duration": "2h 48m",
+            "rating": "8.3/10"
+        },
+        {
+            "id": 3,
+            "title": "Avatar: The Way of Water",
+            "year": 2022,
+            "category": "hollywood",
+            "size": "3.2 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+            "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.",
+            "downloadUrl": "https://example.com/downloads/avatar2.mp4",
+            "quality": "2160p",
+            "duration": "3h 12m",
+            "rating": "7.6/10"
+        },
+        {
+            "id": 4,
+            "title": "Brahmāstra",
+            "year": 2022,
+            "category": "bollywood",
+            "size": "2.1 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOWY0YjE1OTAtYzFjZi00YzU4LWE0YTctYzFiYzA5Y2ZjMDk0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+            "description": "A DJ with superpowers and his love interest fight dark forces that threaten the existence of the universe.",
+            "downloadUrl": "https://example.com/downloads/brahmastra.mp4",
+            "quality": "720p",
+            "duration": "2h 47m",
+            "rating": "5.5/10"
+        },
+        {
+            "id": 5,
+            "title": "RRR",
+            "year": 2022,
+            "category": "south",
+            "size": "2.7 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+            "description": "A fictional story about two Indian revolutionaries and their journey away from home before they started fighting for their country.",
+            "downloadUrl": "https://example.com/downloads/rrr.mp4",
+            "quality": "1080p",
+            "duration": "3h 7m",
+            "rating": "7.9/10"
+        },
+        {
+            "id": 6,
+            "title": "Top Gun: Maverick",
+            "year": 2022,
+            "category": "hollywood",
+            "size": "2.5 GB",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
+            "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs.",
+            "downloadUrl": "https://example.com/downloads/topgun2.mp4",
+            "quality": "1080p",
+            "duration": "2h 11m",
+            "rating": "8.3/10"
+        }
+    ]
+}

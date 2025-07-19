@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Details - CineHub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="movie.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">CineHub</a>
+        <div class="search-container">
+            <input type="text" class="search-bar" placeholder="Search movies...">
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="movie-detail" id="movie-detail-container">
+            <!-- Movie details will be loaded here from JSON -->
+        </div>
+        <div class="video-container" id="video-container">
+            <video controls class="video-player" id="video-player">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
